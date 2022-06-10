@@ -46,30 +46,29 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-### Data Head
+## Data Head
 ![](https://user-images.githubusercontent.com/93427208/169464817-681d5776-e0a4-415a-bc58-10e5a9f37cc2.png)
 
-### Information:
+## Information:
 ![](https://user-images.githubusercontent.com/93427208/169464890-1a6c35c0-c7e5-43c8-9a40-2c6a0ee9a27b.png)
 
-### Null dataset:
+## Null dataset:
 ![](https://user-images.githubusercontent.com/93427208/169464953-b46cc08c-2005-4acf-8fe7-08cae47aa60c.png)
 
-### Value_counys():
+## Value_counys():
 ![](https://user-images.githubusercontent.com/93427208/169465015-f4c16c0c-4ca2-4fca-8a7a-f85cb423a999.png)
 
-### Data Head:
+## Data Head:
 ![](https://user-images.githubusercontent.com/93427208/169465081-dc868d4c-f879-42c1-9be5-8a7c690af454.png)
 
-### x.head():
+## X.head():
 ![](https://user-images.githubusercontent.com/93427208/169465176-9b8d266d-ed47-4a8e-8781-19c04a0360c0.png)
 
-### Accuracy:
+## Accuracy:
 ![](https://user-images.githubusercontent.com/93427208/169465389-51117326-7f9b-416e-b48b-a43961d7f513.png)
 
-### Data Prediction:
+## Data Prediction:
 ![](https://user-images.githubusercontent.com/93427208/169465493-62ba0d4e-3deb-44ec-a2f1-bd2707cd9b5c.png)
-
 
 
 ## Result:
